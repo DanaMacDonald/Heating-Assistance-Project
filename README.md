@@ -10,7 +10,12 @@ Goals for this dashboard include:
 - Understanding applicants
 - Analyzing service use
 
+
 Data Source:
-Nova Scotia's Government Open Data Portal
-Heating Assistance Rebate Program
-https://data.novascotia.ca/Government-Administration/Heating-Assistance-Rebate-Program/8s6t-aehm/about_data
+  Nova Scotia's Government Open Data Portal
+  Heating Assistance Rebate Program
+  https://data.novascotia.ca/Government-Administration/Heating-Assistance-Rebate-Program/8s6t-aehm/about_data
+
+Screenshot
+(Dashboard page 1)
+https://github.com/DanaMacDonald/Heating-Assistance-Project/blob/main/HARP%20Project%20-%20Overview.png
