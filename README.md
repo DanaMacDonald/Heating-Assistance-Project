@@ -17,5 +17,4 @@ Data Source:
   https://data.novascotia.ca/Government-Administration/Heating-Assistance-Rebate-Program/8s6t-aehm/about_data
 
 Screenshot
-(Dashboard page 1)
-https://github.com/DanaMacDonald/Heating-Assistance-Project/blob/main/HARP%20Project%20-%20Overview.png
+![Dashboard Preview](https://github.com/DanaMacDonald/Heating-Assistance-Project/blob/main/HARP%20Project%20-%20Overview.png)
